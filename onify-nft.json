@@ -1,0 +1,20 @@
+{
+  "name": "OnifyTech #1",
+  "description": "Onify Tech, we provide the best consulting services in south east asia.",
+  "image": "https://raw.githubusercontent.com/onifytech/solana-token/refs/heads/main/onify_logo.png",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "Capital"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/onifytech/solana-token/refs/heads/main/onify_logo.png",
+        "type": "image.png"
+      }
+    ],
+    "category": "image"
+  }
+}
